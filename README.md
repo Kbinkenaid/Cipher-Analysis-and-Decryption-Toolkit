@@ -26,17 +26,17 @@ A Java-based cryptanalysis tool for performing **frequency analysis** and **reve
 
 ```bash
 javac CryptoPhaseTwo.java
-#✅ Step 2: Prepare your files
+###✅ Step 2: Prepare your files
 Ensure dictionary.txt is in the same directory as the compiled .class file.
 
 Create or obtain a ciphertext file (e.g., cipher.txt) that contains the encrypted message to analyze.
 
-✅ Step 3: Run the program
+###✅ Step 3: Run the program
 bash
 Copy
 Edit
 java CryptoPhaseTwo
-✅ Step 4: Follow the prompt
+###✅ Step 4: Follow the prompt
 When prompted, enter the name of the ciphertext file:
 
 css
